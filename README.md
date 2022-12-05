@@ -20,4 +20,5 @@ The app tutorial is avaialble here: https://corlic29.github.io/lbsa/
 
 
 ## Contact
+www.mszatkowski.pl
 mateusz.szatkowski@pwr.edu.pl
