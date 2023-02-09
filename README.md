@@ -11,8 +11,8 @@ This software requires Image Acquisition Toolbox to operate.
 ## Installation
 User is given two possible options to use the LBSA:
 
-* Copy the LBSA.mlapp located in the /data folder into your desktop and run the app using the build graphic user interface  
-* Install the app directly using the LBSA.mlappinstall file, to make it avaialable as an internal Matlab app (suggested). 
+* Copy the LBSA.mlapp together with the CameraSettings.mlapp located in the /data folder into your desktop and run the app using the build graphic user interface through the LBSA.mlapp file  
+* Install the app directly using the LaserBeamShapingApp.mlappinstall file, to make it avaialable as an internal Matlab app (suggested). 
 
 ## Usage
 
