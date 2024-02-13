@@ -17,6 +17,7 @@ User is given two possible options to use the LBSA:
 ## Usage
 
 The app tutorial is avaialble here: https://corlic29.github.io/lbsa/
+![image](https://github.com/corlic29/LaserBeamShapingApp/assets/53095764/af13f874-9be0-4546-bf03-830e1cc0e2eb)
 
 
 ## Contact
