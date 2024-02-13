@@ -1,6 +1,7 @@
 ## Laser Beam Shaping App (LBSA)
 ![image](https://github.com/corlic29/LaserBeamShapingApp/assets/53095764/af13f874-9be0-4546-bf03-830e1cc0e2eb)
 All-in-one SLM operating software: Laser Beam Shaping App (LBSA) created in the MATLAB framework. Using the MATLAB Graphic User Interface
+
 Cite as:
 Mateusz Szatkowski, Przemysław Litwin, Jan Masajada, “LBSA: A GUI-based Matlab software for the advanced laser beam shaping with spatial light modulators“, SoftwareX 22, 101342 (2023)
 
